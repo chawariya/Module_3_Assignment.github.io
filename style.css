@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+}
+
+#header-nav{
+    border: 4px solid black;
+    background: rgb(125, 124, 124);
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+    width: 100vw;
+}
+
+.menu{
+    background: rgb(153, 153, 153);
+    margin-top: 20px;
+}
+
+.menu h1, p {
+    font-weight: bolder;
+}
+
+.dish{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.navbar-nav{
+    text-align: center;
+}
